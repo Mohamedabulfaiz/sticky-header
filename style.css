@@ -1,0 +1,16 @@
+header{
+    text-align: center;
+    position: fixed;
+    background-color: black;
+    color: white;
+    width: 100%;
+    top: 0;
+}
+main{
+    margin: 100px 50px;
+
+}
+
+footer{
+    margin: 20px;
+}
