@@ -3,9 +3,11 @@ header{
     position: sticky;
     width: 100%;
     top: 0;
+    background-color: black;
+    color: white;
 }
 main{
-    margin: 100px 50px;
+    margin: 10px 50px;
 
 }
 
